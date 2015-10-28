@@ -7,4 +7,4 @@ Place all .xls formatted Excel files in the same folder as the script that you w
 Run the convert_xls_toxlsx.py script to convert the .xls formatted Excel files to .xlsx
 
 Run in Terminal or Shell Script:
->>>python3 convert_xls_to_xlsx.py
+  python3 convert_xls_to_xlsx.py
